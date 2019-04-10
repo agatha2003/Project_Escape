@@ -26,7 +26,7 @@ public class testhc {
 					System.out.println("A,B,C에 들어갈 숫자를 모두 더한 값을 구하세요");
 					System.out.print("A+B+C= ");
 					String q1 = sc.next();
-					if (q1.equals("11"))
+					if (q1.equals("?"))
 						System.out.println("★★ 정답입니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
@@ -41,7 +41,7 @@ public class testhc {
 					System.out.println("위의 식이 성립할때 A+B+C를 구하세요");
 					System.out.print("정답: ");
 					String q2 = sc.next();
-					if (q2.equals("19"))
+					if (q2.equals("?"))
 						System.out.println("★★ 정답입니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
@@ -57,7 +57,7 @@ public class testhc {
 					System.out.println("B C D E I K O X");
 					System.out.print("정답: ");
 					String q3 = sc.next();
-					if (q3.equals("H"))
+					if (q3.equals("?"))
 						System.out.println("★★ 정답입니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
@@ -71,7 +71,7 @@ public class testhc {
 					System.out.println("? 에 들어갈 숫자는 무엇일까요?");
 					System.out.print("정답: ");
 					String q4 = sc.next();
-					if (q4.equals("87"))
+					if (q4.equals("?"))
 						System.out.println("★★ 정답입니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
@@ -87,7 +87,7 @@ public class testhc {
 					System.out.println("? 에 들어갈 숫자는 무엇일까요?");
 					System.out.print("정답: ");
 					String q5 = sc.next();
-					if (q5.equals("310"))
+					if (q5.equals("?"))
 						System.out.println("★★ 정답입니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
@@ -105,7 +105,7 @@ public class testhc {
 					System.out.println("이것은 무엇일까요?");
 					System.out.print("정답: ");
 					String q6 = sc.next();
-					if (q6.equals("입술"))
+					if (q6.equals("?"))
 						System.out.println("★★ 정답입니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
@@ -121,7 +121,7 @@ public class testhc {
 					System.out.println("암호: ㄷㅁㄱㄴㄷㄱㅁ");
 					System.out.print("정답: ");
 					String q6 = sc.next();
-					if (q6.equals("6519615"))
+					if (q6.equals("?"))
 						System.out.println("★★ 축하합니다 탈출에 성공하셨습니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
@@ -140,5 +140,18 @@ public class testhc {
 
 		}
 		sc.close();
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
+		//h
 	}
 }
