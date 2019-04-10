@@ -118,8 +118,8 @@ public class testhc {
 					System.out.println("암호를 풀어 폭탄을 제거하세요");
 					System.out.println("암호: ㄷㅁㄱㄴㄷㄱㅁ");
 					System.out.print("정답: ");
-					String q6 = sc.next();
-					if (q6.equals("6519615"))
+					String q7 = sc.next();
+					if (q7.equals("6519615"))
 						System.out.println("★★ 축하합니다 탈출에 성공하셨습니다! ★★");
 					else
 						System.out.println("땡!!!!!!!!!!!");
