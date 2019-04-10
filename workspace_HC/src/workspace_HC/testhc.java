@@ -10,9 +10,7 @@ public class testhc {
 		while (num != 0) {
 			System.out.println("1~7단계중 탈출할 단계를 입력하세요");
 			System.out.println("0입력 : 종료");
-
 			num = sc.nextInt();
-
 			switch (num) {
 			case 1:
 				if (coin >= 100) {
@@ -137,21 +135,6 @@ public class testhc {
 				System.out.println("잘못 입력하셨습니다.");
 				break;
 			}
-
-		}
-		sc.close();
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
-		//h
+		} sc.close();
 	}
 }
